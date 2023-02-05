@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #D8FED7;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#left {
+    width: 50%;
+    height: 100vh;
+}
+
+#right {
+    width: 50%;
+    min-height: 100vh;
+    background: palegreen;
+}
+
+#branding {
+    width: 200px;
+    height: auto;
+}
+
+#condition {
+    width: 100px;
+    height: auto;
+}
